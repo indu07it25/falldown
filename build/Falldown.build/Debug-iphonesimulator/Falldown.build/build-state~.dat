@@ -1,0 +1,295 @@
+TFalldown
+v7
+r0
+t303233161.857869
+cCheck dependencies
+cProcessInfoPlistFile /Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app/Info.plist Falldown-Info.plist
+cCompileXIB /Users/knikes/Documents/Falldown/MainWindow.xib
+cCompileXIB /Users/knikes/Documents/Falldown/FalldownViewController.xib
+cCpResource build/Debug-iphonesimulator/Falldown.app/ball.jpg ball.jpg
+cProcessPCH /var/folders/SX/SX-p2u1VHhK2V2n220x2X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Falldown_Prefix-awmfaqibbbhulogfqxactphmirps/Falldown_Prefix.pch.gch Falldown_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/main.o /Users/knikes/Documents/Falldown/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/FalldownAppDelegate.o /Users/knikes/Documents/Falldown/Classes/FalldownAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/FalldownViewController.o /Users/knikes/Documents/Falldown/Classes/FalldownViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/Game.o /Users/knikes/Documents/Falldown/Classes/Game.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C2BA9540000000000000132
+t1277929812
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/knikes/Documents/Falldown/Classes/FalldownAppDelegate.h
+c000000004C62BF0400000000000001DF
+t1281539844
+s479
+i<UIKit/UIKit.h>
+
+N/Users/knikes/Documents/Falldown/Classes/FalldownAppDelegate.m
+c000000004C62C1050000000000000A8C
+t1281540357
+s2700
+i"FalldownAppDelegate.h"
+i"FalldownViewController.h"
+
+N/Users/knikes/Documents/Falldown/Classes/FalldownViewController.h
+c000000004C62BF0400000000000000EB
+t1281539844
+s235
+i<UIKit/UIKit.h>
+
+N/Users/knikes/Documents/Falldown/Classes/FalldownViewController.m
+c000000004C62BF0400000000000005B7
+t1281539844
+s1463
+i"FalldownViewController.h"
+
+N/Users/knikes/Documents/Falldown/Classes/Game.h
+c000000004C62C10500000000000000E5
+t1281540357
+s229
+i<UIKit/UIKit.h>
+
+N/Users/knikes/Documents/Falldown/Classes/Game.m
+c000000004C62C105000000000000028C
+t1281540357
+s652
+i"Game.h"
+
+N/Users/knikes/Documents/Falldown/FalldownViewController.xib
+c000000004C62BF040000000000001A49
+t1281539844
+s6729
+
+N/Users/knikes/Documents/Falldown/Falldown_Prefix.pch
+c000000004C62BF0400000000000000B9
+t1281539844
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/knikes/Documents/Falldown/MainWindow.xib
+c000000004C62BF040000000000004E35
+t1281539844
+s20021
+
+N/Users/knikes/Documents/Falldown/ball.jpg
+c000000004C5D8580000000000000784B
+t1281197440
+s30795
+
+N/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app
+t2
+s0
+
+N/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app.dSYM
+t2
+s0
+
+N/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app/Falldown
+t2
+s0
+
+N/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app/FalldownViewController.nib
+t1281540358
+s795
+
+N/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app/Info.plist
+t1281540357
+s595
+
+N/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app/MainWindow.nib
+t1281540358
+s1125
+
+N/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app/PkgInfo
+t1281540357
+s8
+
+N/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app/ball.jpg
+t1281540358
+s30795
+
+N/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/Falldown.LinkFileList
+c000000004C62C10500000000000001F9
+t1281540357
+s505
+
+N/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/FalldownAppDelegate.o
+t1281540361
+s47776
+
+N/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/FalldownViewController.o
+t1281540361
+s34404
+
+N/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/Game.o
+t2
+s0
+
+N/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/main.o
+t1281540361
+s6292
+
+N/Users/knikes/Documents/Falldown/main.m
+c000000004C62BF040000000000000164
+t1281539844
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/SX/SX-p2u1VHhK2V2n220x2X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Falldown_Prefix-awmfaqibbbhulogfqxactphmirps/Falldown_Prefix.pch.gch
+t1281540360
+s15232016
+
+NFalldown-Info.plist
+c000000004C62BF04000000000000038D
+t1281539844
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303233157#303233157#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/FalldownAppDelegate.o /Users/knikes/Documents/Falldown/Classes/FalldownAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303233161.619028
+e303233161.711499
+r1
+xCompileC
+xbuild/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/FalldownAppDelegate.o
+x/Users/knikes/Documents/Falldown/Classes/FalldownAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/knikes/Documents/Falldown/Classes/FalldownAppDelegate.m303233161#303233161#0(0"0(0#0#62"/Users/knikes/Documents/Falldown/Classes/FalldownAppDelegate.m8612870112#1893"    cd /Users/knikes/Documents/Falldown    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-generated-files.hmap -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-own-target-headers.hmap -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-all-target-headers.hmap -iquote /Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-project-headers.hmap -F/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator -I/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/include -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/DerivedSources/i386 -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/DerivedSources -include /var/folders/SX/SX-p2u1VHhK2V2n220x2X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Falldown_Prefix-awmfaqibbbhulogfqxactphmirps/Falldown_Prefix.pch -c /Users/knikes/Documents/Falldown/Classes/FalldownAppDelegate.m -o /Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/FalldownAppDelegate.o0#
+
+CCompileC build/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/FalldownViewController.o /Users/knikes/Documents/Falldown/Classes/FalldownViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303233161.711632
+e303233161.792522
+r1
+xCompileC
+xbuild/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/FalldownViewController.o
+x/Users/knikes/Documents/Falldown/Classes/FalldownViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/knikes/Documents/Falldown/Classes/FalldownViewController.m303233161#303233161#0(0"0(0#0#65"/Users/knikes/Documents/Falldown/Classes/FalldownViewController.m8611774080#1899"    cd /Users/knikes/Documents/Falldown    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-generated-files.hmap -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-own-target-headers.hmap -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-all-target-headers.hmap -iquote /Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-project-headers.hmap -F/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator -I/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/include -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/DerivedSources/i386 -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/DerivedSources -include /var/folders/SX/SX-p2u1VHhK2V2n220x2X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Falldown_Prefix-awmfaqibbbhulogfqxactphmirps/Falldown_Prefix.pch -c /Users/knikes/Documents/Falldown/Classes/FalldownViewController.m -o /Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/FalldownViewController.o0#
+
+CCompileC build/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/Game.o /Users/knikes/Documents/Falldown/Classes/Game.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303233161.792660
+e303233161.857769
+r0
+xCompileC
+xbuild/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/Game.o
+x/Users/knikes/Documents/Falldown/Classes/Game.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/knikes/Documents/Falldown/Classes/Game.m: In function '-[Game initialize]':
+o/Users/knikes/Documents/Falldown/Classes/Game.m:24: error: expected ']' before ';' token
+o/Users/knikes/Documents/Falldown/Classes/Game.m:25: error: expected ';' before '}' token
+o{standard input}:57:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:57:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:53:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:53:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+lSLF07#2@55"Compile /Users/knikes/Documents/Falldown/Classes/Game.m303233161#303233161#0(860"/Users/knikes/Documents/Falldown/Classes/Game.m: In function '-[Game initialize]':/Users/knikes/Documents/Falldown/Classes/Game.m:24: error: expected ']' before ';' token/Users/knikes/Documents/Falldown/Classes/Game.m:25: error: expected ';' before '}' token{standard input}:57:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:57:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:53:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:53:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_02(4@29"Expected ']' before ';' token303233161#83#89#0(6@47"/Users/knikes/Documents/Falldown/Classes/Game.m303233157#24#0#24#0#19"expected * before *0(4@29"Expected ';' before '}' token303233161#172#89#0(6@47"/Users/knikes/Documents/Falldown/Classes/Game.m303233157#25#0#25#0#19"expected * before *0(0#0#47"/Users/knikes/Documents/Falldown/Classes/Game.m8611347744#1863"    cd /Users/knikes/Documents/Falldown    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-generated-files.hmap -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-own-target-headers.hmap -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-all-target-headers.hmap -iquote /Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-project-headers.hmap -F/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator -I/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/include -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/DerivedSources/i386 -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/DerivedSources -include /var/folders/SX/SX-p2u1VHhK2V2n220x2X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Falldown_Prefix-awmfaqibbbhulogfqxactphmirps/Falldown_Prefix.pch -c /Users/knikes/Documents/Falldown/Classes/Game.m -o /Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/Game.o1#
+
+CCompileC build/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/main.o /Users/knikes/Documents/Falldown/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303233161.385735
+e303233161.618889
+r1
+xCompileC
+xbuild/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/main.o
+x/Users/knikes/Documents/Falldown/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/knikes/Documents/Falldown/main.m303233161#303233161#0(0"0(0#0#39"/Users/knikes/Documents/Falldown/main.m8605336416#1855"    cd /Users/knikes/Documents/Falldown    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-generated-files.hmap -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-own-target-headers.hmap -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-all-target-headers.hmap -iquote /Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-project-headers.hmap -F/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator -I/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/include -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/DerivedSources/i386 -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/DerivedSources -include /var/folders/SX/SX-p2u1VHhK2V2n220x2X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Falldown_Prefix-awmfaqibbbhulogfqxactphmirps/Falldown_Prefix.pch -c /Users/knikes/Documents/Falldown/main.m -o /Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/knikes/Documents/Falldown/FalldownViewController.xib
+s303233157.997889
+e303233158.908872
+r1
+xCompileXIB
+x/Users/knikes/Documents/Falldown/FalldownViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@37"CompileXIB FalldownViewController.xib303233157#303233158#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#59"/Users/knikes/Documents/Falldown/FalldownViewController.xib8612292832#577"    cd /Users/knikes/Documents/Falldown    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app/FalldownViewController.nib /Users/knikes/Documents/Falldown/FalldownViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/knikes/Documents/Falldown/MainWindow.xib
+s303233157.995120
+e303233158.902133
+r1
+xCompileXIB
+x/Users/knikes/Documents/Falldown/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib303233157#303233158#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#47"/Users/knikes/Documents/Falldown/MainWindow.xib8612712512#553"    cd /Users/knikes/Documents/Falldown    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app/MainWindow.nib /Users/knikes/Documents/Falldown/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Falldown.app/ball.jpg ball.jpg
+s303233158.902255
+e303233158.989378
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Falldown.app/ball.jpg
+xball.jpg
+lSLF07#2@13"Copy ball.jpg303233158#303233158#0(0"0(0#0#41"/Users/knikes/Documents/Falldown/ball.jpg8615788480#435"    cd /Users/knikes/Documents/Falldown    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/knikes/Documents/Falldown/ball.jpg /Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app0#
+
+CGenerateDSYMFile /Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app.dSYM /Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app/Falldown
+r0
+
+CLd /Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app/Falldown normal i386
+r0
+
+CProcessInfoPlistFile /Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app/Info.plist Falldown-Info.plist
+s303233157.959782
+e303233157.994986
+r1
+xProcessInfoPlistFile
+x/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app/Info.plist
+xFalldown-Info.plist
+lSLF07#2@27"Process Falldown-Info.plist303233157#303233157#0(0"0(0#0#52"/Users/knikes/Documents/Falldown/Falldown-Info.plist32933040433463412#464"    cd /Users/knikes/Documents/Falldown    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Falldown-Info.plist -genpkginfo /Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app/Info.plist0#
+
+CProcessPCH /var/folders/SX/SX-p2u1VHhK2V2n220x2X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Falldown_Prefix-awmfaqibbbhulogfqxactphmirps/Falldown_Prefix.pch.gch Falldown_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s303233158.989623
+e303233161.385543
+r1
+xProcessPCH
+x/var/folders/SX/SX-p2u1VHhK2V2n220x2X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Falldown_Prefix-awmfaqibbbhulogfqxactphmirps/Falldown_Prefix.pch.gch
+xFalldown_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Falldown_Prefix.pch303233158#303233161#0(0"0(0#0#52"/Users/knikes/Documents/Falldown/Falldown_Prefix.pch8615649664#1752"    cd /Users/knikes/Documents/Falldown    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-generated-files.hmap -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-own-target-headers.hmap -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-all-target-headers.hmap -iquote /Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/Falldown-project-headers.hmap -F/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator -I/Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/include -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/DerivedSources/i386 -I/Users/knikes/Documents/Falldown/build/Falldown.build/Debug-iphonesimulator/Falldown.build/DerivedSources -c /Users/knikes/Documents/Falldown/Falldown_Prefix.pch -o /var/folders/SX/SX-p2u1VHhK2V2n220x2X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Falldown_Prefix-awmfaqibbbhulogfqxactphmirps/Falldown_Prefix.pch.gch0#
+
+CTouch /Users/knikes/Documents/Falldown/build/Debug-iphonesimulator/Falldown.app
+r0
+
