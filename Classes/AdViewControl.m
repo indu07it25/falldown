@@ -46,8 +46,8 @@
 }
 
 - (void)createAdBannerView {
-    Class classAdBannerView = NSClassFromString(@"ADBannerView");
-    if (classAdBannerView != nil) {
+   // Class classAdBannerView = NSClassFromString(@"ADBannerView");
+   /* if (classAdBannerView != nil) {
         self.adBannerView = [[[classAdBannerView alloc] 
 							  initWithFrame:CGRectZero] autorelease];
         [_adBannerView setRequiredContentSizeIdentifiers:[NSSet setWithObjects: 
@@ -67,7 +67,7 @@
 		
         [self addSubview:_adBannerView]; 
 		
-    }
+    }*/
 }
 
 - (BOOL)bannerViewActionShouldBegin:(ADBannerView *)banner willLeaveApplication:(BOOL)willLeave
